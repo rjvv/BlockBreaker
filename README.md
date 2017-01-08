@@ -1,2 +1,2 @@
 # BlockBreaker
-A simple game
+A simple game for fun.
